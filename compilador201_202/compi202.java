@@ -27,7 +27,7 @@ class compi202 {
 				System.out.println("FINAL");
 				break;
 			default:
-				System.out.println("OPCION Erronea");
+				System.out.println("OPCION   Erronea");
 				break;
 			}
 		} while (numero != 4);

@@ -1,5 +1,0 @@
-
-
-gonzalo
-safe.directory=R:/dam/pro/proxectosPRO/avaliacion1/src
-safe.directory=R:/dam/pro/proxectosPRO/avaliacion2/src

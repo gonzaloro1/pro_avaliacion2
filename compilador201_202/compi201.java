@@ -24,7 +24,7 @@ public class compi201 {
 				dato.amosaString();
 				break;
 			default:
-				System.out.println("OPCION Erronea");
+				System.out.println("OPCION  Erronea");
 				break;
 			}
 			numero = dato.dameOpcion();
